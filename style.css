@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg.webp");
+    background-size: cover;
+    font-size: 100%
+}
+
+header {
+    color: paleturquoise;
+}
+
+.intro img {
+    margin-top: 20px;
+    width: 50%; 
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.intro button:hover, #cucumber:hover, #strawberry:hover {
+    color: red;
+    background-color: black;
+}
+
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.shopping h2 {
+    color: blue;
+}
+
+
+.nav_items {
+    list-style: none;
+}
+
+.nav_items li {
+    background-color:aqua;
+    display: inline-block;
+    margin: 0px 15px;
+}
+
+nav {
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0% 5%
+}
+
+
+
